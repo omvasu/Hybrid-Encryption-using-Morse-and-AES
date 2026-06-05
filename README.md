@@ -1,5 +1,3 @@
-Refined Version:
-
 This code utilizes a single password consisting of a minimum of 8 characters for encryption and decryption operations.
 
 DISCLAIMER
